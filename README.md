@@ -1,4 +1,4 @@
-# Module 2 Challenge:  Loan Qualifier App
+# Loan Qualifier App
 
 User Story:
 As a user, I need the ability to save the qualifying loans to a CSV file so that I can share the results as a spreadsheet.
