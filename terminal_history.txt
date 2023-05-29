@@ -1,0 +1,905 @@
+   50  bash
+   51  ls
+   52  pwd
+   53  cd ..
+   54  ls
+   55  cd anaconda
+   56  ls
+   57  python
+   58  cd lda_assignment_topic_model
+   59  cat lda_assignment_topic_model
+   60  ls -al
+   61  bash
+   62  /usr/bin/python3 /Users/alphonsologan/Documents/Class_1_Activities/01_Ins_Variables/Solved/variables.py
+   63  /usr/bin/python3 /Users/alphonsologan/Documents/Class_1_Activities/02_Stu_Percent_Increase/Solved/percent_increase.py
+   64  conda
+   65  conda install -c conda-forge jupyterlab
+   66  conda -version
+   67  pip install jupyterlab
+   68  badh
+   69  bash
+   70  jupyter notebook
+   71  cd ~
+   72  ls
+   73  ls -al
+   74  jupyter lab
+   75  jupyterlab
+   76  jupyter notebook
+   77  cd anaconda
+   78  ls
+   79  ls -al
+   80  jupyter notebook
+   81  conda
+   82  ls
+   83  cd ..
+   84  ls
+   85  ls -al
+   86  ls -l
+   87  anaconda
+   88  conda
+   89  conda update conda
+   90  cd ~
+   91  ls
+   92  conda update conda
+   93  bash
+   94  cd /
+   95  ls
+   96  conda update conda
+   97  conda -V
+   98  bash
+   99  ls
+  100  cd Users
+  101  ls
+  102  cd alphonsologan
+  103  ls
+  104  conda -V
+  105  cd anaconda
+  106  ls
+  107  conda -V
+  108  cd ~
+  109  ls
+  110  conda -V
+  111  bash
+  112  cd ..
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  cd ~
+  117  ls
+  118  conda -V
+  119  conda -V
+  120  ls
+  121  cd ..
+  122  cd ..
+  123  ls
+  124  ls -al
+  125  cd ..
+  126  ls
+  127  cd ..
+  128  ls
+  129  cd ..
+  130  ls
+  131  cd /
+  132  ls
+  133  ls -al
+  134  cd Users
+  135  ls
+  136  cd alphonsologan
+  137  ls -al
+  138  pandas
+  139  pip install pandas
+  140  pip install pandas
+  141  pip install pandas
+  142  cd ..
+  143  cd 
+  144  cd /
+  145  ls
+  146  cd home
+  147  ls
+  148  cd ..
+  149  ls
+  150  cd Users/alphonsologan
+  151  ls
+  152  pip install pandas
+  153  ls
+  154  cd Documents
+  155  ls
+  156  pandas -v
+  157  pandas
+  158  pip install pandas
+  159  ssh-keygen -t ED25519 -C "ssh key for FinTech Bootcamp repo"
+  160  tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy
+  161  ssh -T https://ucb.bootcampcontent.com/alphonsoglogan-jkEiwe
+  162  ssh -T git@gitlab.com
+  163  ssh -T https://ucb.bootcampcontent.com/\n
+  164  ucb.bootcampcontent.com/alphonsoglogan-jkEiwe
+  165  ssh -T ucb.bootcampcontent.com/alphonsoglogan-jkEiwe
+  166  ls
+  167  cd Downloads
+  168  ls
+  169  ls | grep Class_2
+  170  cd Class_2_Activities-2
+  171  ls
+  172  ls
+  173  pip3 install pandas
+  174  pip3 install hvplot
+  175  conda install -c pyviz hvplot geoviews
+  176  . /Users/alphonsologan/opt/anaconda3/bin/activate && conda activate /Users/alphonsologan/opt/anaconda3/envs/dev; 
+  177  conda init zsh
+  178  . /Users/alphonsologan/opt/anaconda3/bin/activate && conda activate /Users/alphonsologan/opt/anaconda3/envs/dev; 
+  179  conda init zsh
+  180  conda deactivate
+  181  conda deactive
+  182  conda deactivate
+  183  conda activate dev
+  184  conda init zsh
+  185  conda init zsh
+  186  pip3 install watermark
+  187  conda install -c pyviz hvplot geoviews
+  188  conda list hvplot
+  189  conda list geoviews
+  190  pip install watermark
+  191  conda list geoviews
+  192  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  193  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  194  conda install -n dev ipykernel --update-deps --force-reinstall
+  195  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  196  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  197  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  198  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  199  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  200  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  201  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  202  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  203  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  204  ls
+  205  ls
+  206  cat inexpensive_loans
+  207  cat inexpensive_loans.csv
+  208  rm inexpensive_loans.csv
+  209  ls
+  210  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  211  ls
+  212  cat inexpensive_loans.csv
+  213  rm inexpensive_loans.csv
+  214  s\ls
+  215  ls
+  216  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  217  cat  inexpensive_loans.csv
+  218  ls
+  219  rm inexpensive_loans.csv
+  220  ls
+  221  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  222  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  223  ls
+  224  cat inexpensive_loans.csv
+  225  rm inexpensive_loans.csv
+  226  ls
+  227  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  228  ls
+  229  cat inexpensive_loans.csv
+  230  rm inexpensive_loans.csv
+  231  ls
+  232  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  233  ls
+  234  cat inexpensive_loans.csv
+  235  rm inexpensive_loans.csv
+  236  ls
+  237  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  238  cat inexpensive_loans.csv
+  239  rm inexpensive_loans.csv
+  240  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  241  ls
+  242  rm inexpensive_loans.csv
+  243  ls
+  244  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  245  rm inexpensive_loans.csv
+  246  ls
+  247  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  248  cat inexpensive_loans.csv
+  249  rm inexpensive_loans.csv
+  250  ls
+  251  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  252  cat inexpensive_loans.csv
+  253  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  254  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  255  rm inexpensive_loans.csv
+  256  ls
+  257  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  258  cat inexpensive_loans.csv
+  259  rm inexpensive_loans.csv
+  260  ls
+  261  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  262  cat inexpensive_loans.csv
+  263  rm inexpensive_loans.csv
+  264  ls
+  265  /usr/bin/python3 /Users/alphonsologan/Desktop/Bootcamp/HW1/loan_analyzer.py
+  266  cat inexpensive_loans.csv
+  267  git status
+  268  git add inexpensive_loans.csv
+  269  git status
+  270  git add loan_analyzer.py
+  271  git status
+  272  cat ../.DS_Store
+  273  git status
+  274  defaults write com.apple.desktopservices DSDontWriteNetworkStores true
+  275  git status
+  276  git add ../.DS_Store
+  277  ls
+  278  git status
+  279  git commit -m "module-1 challenge: loan application"
+  280  git status
+  281  git push
+  282  git status
+  283  jupyter lab
+  284  echo $SHELL
+  285  conda --version
+  286  conda update conda
+  287  conda create -n dev python=3.7 anaconda
+  288  conda activate dev
+  289  ls
+  290  ls
+  291  ls
+  292  cd Desktop
+  293  mkdir FinTech-Workspace
+  294  ls
+  295  ls
+  296  ls | grep FinTech-Workspace
+  297  cd FinTech-Workspace
+  298  ls
+  299  cd ..
+  300  git clone https://github.com/alphonsologan/Bootcamp.git
+  301  ls
+  302  cd Bootcamp
+  303  git add .
+  304  git status
+  305  git commit -m "initial commit for HW1"
+  306  git status
+  307  git push
+  308  cd ..
+  309  rm -r Bootcamp
+  310  ls
+  311  git clone git@github.com:alphonsologan/Bootcamp.git
+  312  git@github.com:alphonsologan/Bootcamp.git
+  313  git clone git@github.com:alphonsologan/Bootcamp.git
+  314  ls
+  315  cd Bootcamp
+  316  ls
+  317  mkdir HW1
+  318  git add .
+  319  git status
+  320  git commit -m "initial commit for HW1"
+  321  git push
+  322  git add .
+  323  git commit -m "testing commit"
+  324  git push
+  325  cd ..
+  326  ls FinTech-Workspace
+  327  ls
+  328  cd FinTech-Workspace
+  329  ls
+  330  https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  331  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-12-2022-U-B.git
+  332  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  333  git pull
+  334  ls
+  335  git pull
+  336  ls
+  337  ls
+  338  cd 07-Financial-Databases-with-SQL
+  339  ls
+  340  cd 1
+  341  ls
+  342  ls
+  343  cd ..
+  344  cd ..
+  345  cd ..
+  346  ls
+  347  rm -r Module_1_Challenge
+  348  rm -r Python_Project
+  349  ls
+  350  cd ..
+  351  cd Bootcamp
+  352  ls
+  353  cd HW4
+  354  ls
+  355  git status
+  356  git status
+  357  ssh -V
+  358  ls
+  359  ls -l
+  360  cd .ssh
+  361  ls
+  362  ls -l
+  363  ls-al
+  364  ls -al
+  365  ls
+  366  eval $(ssh-agent -s)
+  367  tr -d '\n' < ~/.ssh/id_ed25519.pub | pbcopy
+  368  ssh-keygen -o -f ~/.ssh/id_rsa
+  369  tr -d '\n' < ~/.ssh/id_rsa.pub | pbcopy
+  370  . /Users/alphonsologan/opt/anaconda3/bin/activate && conda activate /Users/alphonsologan/opt/anaconda3/envs/dev; 
+  371  source activate base
+  372  source activate dev
+  373  source activate base
+  374  source activate dev
+  375  conda activate dev
+  376  pip install questionary
+  377  pip install tradeapi
+  378  pip install pandas
+  379  pip install sqlalchemy
+  380  pip load_dotenv
+  381  pip install alpaca_trade_api
+  382  pip install dynamodb-json
+  383  pip install alpaca-py
+  384  pip install streamlit
+  385  pip install pandas-datareader
+  386  git pull
+  387  git status
+  388  conda install -c conda-forge mcerp
+  389  pip install yahoofinancials
+  390  conda activate dev
+  391  pip install yahoofinancials
+  392  pip install yfinance
+  393  git status
+  394  git branch
+  395  git status
+  396  git status
+  397  conda activate dev
+  398  pip install sklearn
+  399  conda activate dev
+  400  pandas version
+  401  pandas -version
+  402  pandas -V
+  403  pip show pandas
+  404  git status
+  405  git pull
+  406  git branch
+  407  git checkout Alphonso
+  408  git branch
+  409  git status
+  410  git add .
+  411  git branch
+  412  git checkout -b Alphonso_MonteCarlo
+  413  pip install pandas-datareader
+  414  git status
+  415  cd Des
+  416  cd ~
+  417  ls
+  418  cd Desktop
+  419  ls
+  420  cd CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  421  ls
+  422  git status
+  423  git Capital_Allocation_Optimization/capital_allocation_optimization.ipynb
+  424  ls
+  425  cd Capital_Allocation_Optimization
+  426  ls
+  427  cat Capital_Allocation_Optimization
+  428  ls
+  429  git status
+  430  git commit -m "portfolio optimizer commoditie"
+  431  git push
+  432  git bramch
+  433  git branch
+  434  git checkout -b
+  435  git checkout -b Alphonso
+  436  git branch Alphonso
+  437  git checkout Alphonso
+  438  git status
+  439  git add .
+  440  git status
+  441  git status
+  442  git commit -m "portfolio optimizer commodities"
+  443  git status
+  444  git push
+  445  git branch Alphonso
+  446  git checkout Alphonso
+  447  ls
+  448  cd ..
+  449  ls
+  450  cd Capital_Allocation_Optimization
+  451  ls
+  452  ls
+  453  git status
+  454  git checkout Alphonso
+  455  git restore .
+  456  git restore -- staged .
+  457  git restore --staged .
+  458  git status
+  459  git add portfolio.ipynb
+  460  git status
+  461  git commit -m "updated notebook"
+  462  git push
+  463  git push origin Alphonso
+  464  git checkout Alphonso
+  465  conda activate dev
+  466  git status
+  467  git status
+  468  git checkout Alphonso
+  469  git pull
+  470  git branch --set-upstream-to=Alphonso
+  471  git status
+  472  git restore --staged portfolio.ipynb
+  473  git status
+  474  git status
+  475  /usr/bin/python3 /Users/alphonsologan/Downloads/portfolio_optimizer/portfolio.py
+  476  pip install numba
+  477  /usr/bin/python3 /Users/alphonsologan/Downloads/portfolio_optimizer/portfolio.py
+  478  pip install numba
+  479  pip install numba
+  480  /Users/alphonsologan/opt/anaconda3/bin/python /Users/alphonsologan/Downloads/portfolio_optimizer/portfolio.py
+  481  git status
+  482  pwd
+  483  cd ~
+  484  ls
+  485  cd Desktop
+  486  ls
+  487  cd CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  488  ls
+  489  ls
+  490  git status
+  491  ls
+  492  cd Capital_Allocation_Optimization
+  493  ls
+  494  ls
+  495  cd ..
+  496  git branch
+  497  git checkout Alphonso
+  498  pwd
+  499  ls
+  500  cd Capital_Allocation_Optimization
+  501  ls
+  502  git status
+  503  git restore --staged .
+  504  git status
+  505  git restore README.md
+  506  git restore capital_allocation_optimization.ipynb
+  507  git restore portfolio.ipynb
+  508  git status
+  509  git status
+  510  git pull
+  511  git branch
+  512  git checkout Alphonso
+  513  git pull
+  514  git checkout Alphonso
+  515  pip install selenium
+  516  conda activate base
+  517  pip install scipy.optimize
+  518  pip install scipy
+  519  git status
+  520  ls
+  521  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  522  git status
+  523  git pull
+  524  git pull
+  525  git pull
+  526  git pull
+  527  git pull
+  528  git pull
+  529  pip install prophet
+  530  git pull
+  531  conda activate dev
+  532  git remote add
+  533  ls
+  534  cd Desktop
+  535  ls
+  536  cd Bootcamp
+  537  git remote add
+  538  git remote add origin https://github.com/fonzeon/REPO.git
+  539  git remote -v
+  540  git remote -v
+  541  git remote rename origin destination
+  542  git remote -v
+  543  git remote -v
+  544  git add origin https://github.com/fonzeon/Bootcamp.git
+  545  git add origin https://github.com/fonzeon/REPO.git
+  546  git remote rm destination
+  547  git remote add origin https://github.com/fonzeon/Bootcamp.git
+  548  git remote -v
+  549  git pull
+  550  conda activate dev
+  551  ls
+  552  cd ..
+  553  ls
+  554  cd FinTech-Workspace
+  555  ls
+  556  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  557  ls
+  558  git pull
+  559  git pull
+  560  git pull
+  561  cd ..
+  562  cd ..
+  563  ls
+  564  git clone git@github.com:Xipilscode/CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution.git
+  565  ls
+  566  cd Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  567  cd CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  568  ls
+  569  cd Capital_Allocation_Optimization
+  570  ls
+  571  ls
+  572  ls
+  573  git status
+  574  bit branch -r
+  575  git branch -r
+  576  git checkout origin/Alphonso
+  577  git switch -
+  578  git status
+  579  git restore capital_allocation_optimization.ipynb
+  580  ls
+  581  git status
+  582  git checkout -b Alphonso
+  583  git status
+  584  git switch -
+  585  git checkout -b origin/Alphonso
+  586  git status
+  587  git branch -r
+  588  cd ..
+  589  cd ..
+  590  ls
+  591  ls Bootcamp
+  592  ls
+  593  ls Bootcamp
+  594  cd HW2
+  595  cd Bootcamp
+  596  ls
+  597  cd HW1
+  598  ls
+  599  cd ..
+  600  git remote set-url origin git@github.com:fonzeon/loan_analysis.git
+  601  cd ..
+  602  cd financial_planning
+  603  cd fonzeon
+  604  cd Bootcamp
+  605  ls
+  606  git status
+  607  cd HW2
+  608  ls
+  609  cd loan_qualifier_app
+  610  ls
+  611  cd data
+  612  ls
+  613  cat daily_rate_sheet.csv
+  614  ls
+  615  cd ..
+  616  ls
+  617  cd qualifier
+  618  ls
+  619  cd filters
+  620  ls
+  621  cat credit_score.py
+  622  cd ..
+  623  cd ..
+  624  cd ..
+  625  cd ..
+  626  ls
+  627  mv HW2 loan_qualifier
+  628  ls
+  629  cd loan_qualifier
+  630  ls
+  631  cd loan_qualifier_app
+  632  ls
+  633  cd ..
+  634  cd ..
+  635  cd ..
+  636  cd Bootcamp
+  637  ls
+  638  git clone git@github.com:fonzeon/financial_planning.git
+  639  ls
+  640  cd financial_planning
+  641  git status
+  642  ls
+  643  git status
+  644  pip install python-dotenv
+  645  cd ..
+  646  ls
+  647  git pull
+  648  git fetch
+  649  ld
+  650  ls
+  651  rm -r HW4
+  652  rm -r HW3
+  653  ls
+  654  mkdir etf_analysis
+  655  git pull
+  656  git clone git@github.com:fonzeon/etf_analysis.git
+  657  ls
+  658  cd etf_analysis
+  659  ls
+  660  ls
+  661  pip install hvplot.pandas
+  662  pip install hvplot
+  663  pip install sqlalchemy
+  664  cd ..
+  665  ls
+  666  cd ..
+  667  ls
+  668  cd Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  669  cd CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  670  git pull
+  671  ls
+  672  cd Capital_Allocation_Optimization
+  673  git pull
+  674  git branch
+  675  cd ..
+  676  cd ..
+  677  ls
+  678  cd CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  679  git bracnch
+  680  git branch
+  681  git checkout julio
+  682  git branch
+  683  git add .
+  684  git status
+  685  git commit -m initial
+  686  git checkout julio
+  687  git branch
+  688  git pull
+  689  git status
+  690  git branch
+  691  ls
+  692  git branch
+  693  git checkout Alphonso
+  694  git branch
+  695  git merge julio
+  696  git rebase julio
+  697  git brnach
+  698  git branch
+  699  git merge julio
+  700  git status
+  701  git add .
+  702  git merge julio
+  703  git commit -m pre-merge
+  704  git merge julio
+  705  git status
+  706  git branch
+  707  git pull
+  708  git pull orign Alphonso
+  709  bit branch
+  710  git branch
+  711  git pull origin/Alphonso
+  712  git checkout origin/Alphonso
+  713  git pull
+  714  git branch --set-upstream-to=origin/<branch> origin/Alphonso
+  715  git branch --set-upstream-to=origin/Alphonso origin/Alphonso
+  716  git status
+  717  cd ..
+  718  ls
+  719  rm -r CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  720  cd CAPTS-Comprehensive_Allocation_and_Portfolio_Trading_Solution
+  721  git status
+  722  git restore .
+  723  git status
+  724  ls
+  725  ls
+  726  conda activate dev
+  727  conda activate base
+  728  pip install yfinance
+  729  pip install streamlit
+  730  source activate dev
+  731  source activate bash
+  732  conda activate base
+  733  ls
+  734  git pull
+  735  ls
+  736  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  737  ls
+  738  git pull
+  739  conda install -c conda-forge imbalanced-learn
+  740  conda list imbalanced-learn
+  741  conda install -c conda-forge pydotplus
+  742  source activate dev
+  743  pip install scikit-learn
+  744  git pull
+  745  source activate dev
+  746  pip install imblearn
+  747  source activate base
+  748  conda activate base
+  749  pip install imblearn
+  750  source activate dev
+  751  source activate base
+  752  conda activate base
+  753  pip install imblearn
+  754  git pull
+  755  ls
+  756  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  757  git pull
+  758  pip install tensorflow
+  759  git pull
+  760  source activate dev
+  761   /usr/bin/env /Users/alphonsologan/opt/anaconda3/envs/dev/bin/python /Users/alphonsologan/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65383 -- /Users/alphonsologan/Desktop/FinTech-Workspace/UCB-VIRT-FIN-PT-12-2022-U-B/13-Neural-Networks/2/Activities/01-Ins_Deep_Learning/Solved/deeplearning.ipynb 
+  762  git pull
+  763  ls
+  764  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  765  git pull
+  766  git status
+  767  git restore .
+  768  git pull
+  769  git pull
+  770  conda activate base
+  771  ls
+  772  pip install finta
+  773  pip install finta
+  774  git pull
+  775  git pull
+  776  pip install finta
+  777  conda activate dev
+  778  conda activate dev
+  779  pip install finta
+  780  conda activate dev
+  781  pip install nbformat
+  782  pip install quantstats
+  783  ls
+  784  git pull
+  785  ls
+  786  git status
+  787  git pull
+  788  git clone git@github.com:fonzeon/blockchain-ledger.git
+  789  git status
+  790  git status
+  791  ls
+  792  cd blockchain-ledger
+  793  ls
+  794  git status
+  795  conda activate dev
+  796  git status
+  797  git add pychain.py
+  798  git status
+  799  git commit -m "Record class created, Block class modified"
+  800  git push
+  801  source activate dev
+  802  git pull
+  803  ls
+  804  ls
+  805  cd UCB-VIRT-FIN-PT-12-2022-U-B
+  806  ls
+  807  git pull
+  808  git pull
+  809  git pull
+  810  git pull
+  811  git pull
+  812  pip install streamlit\npip install web3==5.17\npip install eth-tester==0.5.0b3\npip install mnemonic\npip install bip44
+  813  git pull
+  814  git pull
+  815  git pull
+  816  git pull
+  817  git pull
+  818  conda activate dev
+  819  git status
+  820  cd blockchain-ledger
+  821  ls
+  822  git status
+  823  git add pychain.py
+  824  git status
+  825  git commit -m "added user inputs and tested the pychain ledger"
+  826  git push
+  827  git pull
+  828  git push
+  829  git push
+  830  git pull
+  831  git push -force
+  832  git push --force
+  833  cd ..
+  834  ld
+  835  ls
+  836  cd loan_qualifier
+  837  ls
+  838  cd loan_qualifier_app
+  839  ls
+  840  cd qualifier
+  841  ls
+  842  cd filters
+  843  ls
+  844  cd ..
+  845  ls
+  846  cd utils
+  847  ls
+  848  cd ..
+  849  cd ..
+  850  cd ..
+  851  cd ..
+  852  ls
+  853  cd loan_qualifier
+  854  ls
+  855  pip install fire
+  856  ls
+  857  cd ..
+  858  ls
+  859  cd ..
+  860  cd Bootcamp
+  861  ls
+  862  git pull
+  863  ls
+  864  git pull
+  865  ls
+  866  git clone ^[[200~git@github.com:fonzeon/solidity_smart_contract.git~
+  867  git status
+  868  ls
+  869  mkdir solidity_smart_contract
+  870  ls
+  871  cd solidity_smart_contract
+  872  git clone git@github.com:fonzeon/solidity_smart_contract.git
+  873  ls
+  874  cd solidity_smart_contract
+  875  ls
+  876  git status
+  877  conda activate dev
+  878  ls
+  879  cd Desktop
+  880  ls
+  881  cd Bootcamp
+  882  ls
+  883  cd blockchain-ledger
+  884  ls
+  885  streamlit run pychain.py
+  886  pip install Cython
+  887  pip install fbprophet
+  888  pip install pystan==2.14.0.0
+  889  conda activate dev
+  890  pip install Cython
+  891  pip install pystan==2.14.0.0
+  892  conda activate base
+  893  python --version
+  894  pip install pystan==2.19.1.1
+  895  pip install prophet
+  896  pip install fbprophet
+  897  source /Users/alphonsologan/opt/anaconda3/bin/activate dev
+  898   /usr/bin/env /Users/alphonsologan/opt/anaconda3/envs/dev/bin/python /Users/alphonsologan/.vscode/extensions/ms-python.python-2022.16.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59185 -- /Users/alphonsologan/Desktop/Bootcamp/loan_qualifier/loan_qualifier_app/app.py 
+  899  ls
+  900  cd loan_qualifier/loan_qualifier_app
+  901  ls
+  902  python app.py
+  903  python app.py
+  904  python app.py
+  905  python app.py
+  906  git status
+  907  ls
+  908  git status
+  909  cd ..
+  910  git status
+  911  ls
+  912  git status
+  913  cd ..
+  914  ls
+  915  git status
+  916  git add loan_qualifier/
+  917  git status
+  918  git commit -m "updated code"
+  919  git status
+  920  git push
+  921  git status
+  922  git status
+  923  ls
+  924  git clone git@github.com:fonzeon/loan_qualifier.git
+  925  mv loan_qualifier loan_qualifier_
+  926  ls
+  927  git clone git@github.com:fonzeon/loan_qualifier.git
+  928  ls
+  929  cd loan_qualifier
+  930  ls
+  931  git status
+  932  cd add .
+  933  git status
+  934  git add .
+  935  git status
+  936  git commit -m "loan qualifier"
+  937  git status
+  938  git push
+  939  git status
+  940  ls
+  941  rm README.md
+  942  ls
+  943  mv README\ copy.md README.md
+  944  git status
+  945  git add .
+  946  git commit -m "updating README.md"
+  947  git push
+  948  git status
+  949  git status
+  950  git status
+  951  git add .
+  952  git status
+  953  git commit -m "updated README.md"
+  954  git push
